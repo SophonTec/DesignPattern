@@ -1,8 +1,16 @@
 # Design Pattern with Java Implementation
 
+## Software Engineering
+- [ ] 耦合性
+- [ ] 内聚性
+- [ ] 可维护性
+- [ ] 可扩展性
+- [ ] 重用性
+- [ ] 灵活性
+
 ## Principles
 - Single Responsibility
-- 接口隔离
+- Interface Segregation
 - 依赖倒转
 - 里氏替换
 - 开闭OCP
