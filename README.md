@@ -1,7 +1,7 @@
 # Design Pattern with Java Implementation
 
 ## Principles
-- 单一职责
+- Single Responsibility
 - 接口隔离
 - 依赖倒转
 - 里氏替换
