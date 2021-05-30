@@ -11,7 +11,7 @@
 ## Principles
 - Single Responsibility
 - Interface Segregation
-- 依赖倒转
+- Dependence Inversion
 - 里氏替换
 - 开闭OCP
 - 迪米特法则
