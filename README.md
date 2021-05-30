@@ -17,4 +17,9 @@
 - 迪米特法则
 - 合成复用原则
 
+### Dependence Inversion Implementation
+- Interface
+- Constructor
+- setter method
+
 ### Singleton
